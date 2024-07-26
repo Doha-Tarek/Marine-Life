@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project, titled **Marine Life Analysis and Detection**, aims to leverage advanced machine learning techniques to analyze and enhance underwater videos, enabling the accurate classification and detection of underwater animals and objects. The project encompasses several key components, including transfer learning models, object detection and instance segmentation, image enhancement, and edge detection. Each component plays a vital role in improving the clarity and accuracy of the analysis.
+This project aims to leverage advanced machine learning techniques to analyze and enhance underwater videos, enabling the accurate classification and detection of underwater animals and objects. The project encompasses several key components, including transfer learning models, object detection and instance segmentation, image enhancement, and edge detection. Each component plays a vital role in improving the clarity and accuracy of the analysis.
 
 ### Key Components
 
